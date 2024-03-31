@@ -1,2 +1,3 @@
 print ("hello world");
 print ("ne abıyon");
+print ("yeter artık!")
